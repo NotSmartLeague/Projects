@@ -15,8 +15,8 @@ Temperature Converter
 This program can convert temperature handling Celsius, Fahrenheit and Kelvin as measurement units. It should handle common incorrect user input.
 
 ## Installation
-Just clone the repository
-git clone https://github.com/tuo-utente/temperature-converter.git
+Just clone the repository (all projects included)
+git clone https://github.com/NotSmartLeague/Projects.git
 
 
 ## Usage
