@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ligat\OneDrive\Desktop\C++\Projects\00-Simple Calculator\build\CMakeFiles\7d5143ca63e4eb4395e2d3af591e8126\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4ADAF1F1-9025-3467-B71D-3EDD787B1E53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
